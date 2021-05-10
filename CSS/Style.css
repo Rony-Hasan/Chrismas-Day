@@ -1,0 +1,111 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#banner{
+    background-image: url(../Image/Background-Banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 750px;
+    margin: 0px auto;
+}
+
+.Banner_content {
+    text-align: center;
+    padding: 225px 0px;
+}
+
+.Banner_content h1 {
+    width: 300px;
+    background: #ffffffb5;
+    padding: 13px;
+    margin: auto;
+    border-radius: 15px;
+    color: #ff0000;
+    font-family: sans-serif;
+}
+
+.holidaytalk p {
+    text-align: center;
+    width: 525px;
+    padding: 45px 0px;
+    margin: auto;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.portfolio1 {
+    width: 355px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+}
+
+.portfolio_content1 {
+    background: #ff0000;
+    padding: 25px 0px;
+    line-height: 30px;
+    float: left;
+}
+
+.portfolio-content {
+}
+
+.portfolio1 img {
+    width: 100%;
+}
+
+.portfolio_content1 p {
+    width: 75%;
+    margin: auto;
+    color: white;
+    font-size: 21px;
+    font-family: sans-serif;
+}
+
+.portfolio_content1 h3 {
+    font-size: 28px;
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+button {
+    padding: 11px 45px;
+    margin-top: 20px;
+    border: 5px solid #be0f34;
+    border-radius: 21px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #be0f34;
+    transition: 0.4s ease-in;
+}
+button:hover {
+    background: #f90202d6;
+    border: #02ccf561;
+    color: white;
+}
+
+section {
+    margin-top: 655px;
+    background: #be0f34;
+    padding: 32px 0px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+
+.footerContent {
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    padding: 29px 0px;
+    font-family: sans-serif;
+    line-height: 25px;
+}
